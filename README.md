@@ -1,6 +1,6 @@
 ## Inspiration
 
-![image]([\Screenshot 2024-04-29 at 4.03.44 PM.png](https://github.com/csendranshi/FashionAId/blob/master/Screenshot%202024-04-29%20at%204.03.44%20PM.png))
+![image]([Screenshot 2024-04-29 at 4.03.44 PM.png](https://github.com/csendranshi/FashionAId/blob/master/Screenshot%202024-04-29%20at%204.03.44%20PM.png))
 
 Finding the perfect outfit for any occasion can often be a time-consuming challenge, as we all strive to match pieces that complement each other beautifully. This task becomes even more daunting when faced with the common dilemma of feeling like we have nothing to wear, despite a closet full of clothes. The situation deepens complexity for the visually impaired like color blind and aphantasia.
 
