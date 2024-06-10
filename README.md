@@ -1,5 +1,7 @@
 ## Inspiration
 
+![image](Screenshot 2024-04-29 at 4.03.44 PM.png)
+
 Finding the perfect outfit for any occasion can often be a time-consuming challenge, as we all strive to match pieces that complement each other beautifully. This task becomes even more daunting when faced with the common dilemma of feeling like we have nothing to wear, despite a closet full of clothes. The situation deepens complexity for the visually impaired like color blind and aphantasia.
 
 To address these issues, the concept of a streamlined wardrobe emerges, aimed at making the selection process effortless and ensuring that each ensemble is not only stylish but also supremely comfortable. This idea brings a refreshing solution to the age-old problem, making it easier to choose outfits confidently and comfortably, transforming the daily challenge into a delightful experience.
