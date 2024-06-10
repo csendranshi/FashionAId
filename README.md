@@ -1,6 +1,6 @@
 ## Inspiration
 
-![image](https://github.com/csendranshi/FashionAId/blob/master/Screenshot%202024-04-29%20at%204.03.44%20PM.png))
+![image](https://github.com/csendranshi/FashionAId/blob/master/Screenshot%202024-04-29%20at%204.03.44%20PM.png)
 
 Finding the perfect outfit for any occasion can often be a time-consuming challenge, as we all strive to match pieces that complement each other beautifully. This task becomes even more daunting when faced with the common dilemma of feeling like we have nothing to wear, despite a closet full of clothes. The situation deepens complexity for the visually impaired like color blind and aphantasia.
 
@@ -9,6 +9,11 @@ To address these issues, the concept of a streamlined wardrobe emerges, aimed at
 ## What it does
 
 This innovative solution revolutionizes the way we approach our wardrobes by providing personalized outfit recommendations based on the contents of your closet. By simply inputting details such as the occasion, desired aesthetic, and preferred colors, the system intelligently suggests the perfect ensemble. It goes a step further by integrating real-time weather data, ensuring that your outfit is not only stylish but also suitable for the day’s conditions. Whether preparing for a sunny day out or a chilly evening event, this tool ensures that you always step out in comfort and style, making outfit selection a breeze.
+
+![image](https://github.com/csendranshi/FashionAId/blob/master/Screenshot%202024-04-29%20at%203.02.15%20PM.png)
+![image](https://github.com/csendranshi/FashionAId/blob/master/Screenshot%202024-04-29%20at%203.02.27%20PM.png)
+![image](https://github.com/csendranshi/FashionAId/blob/master/Screenshot%202024-04-29%20at%203.02.34%20PM.png)
+![image](https://github.com/csendranshi/FashionAId/blob/master/Screenshot%202024-04-29%20at%203.02.40%20PM.png)
 
 ## How we built it
 
